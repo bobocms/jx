@@ -1,0 +1,2 @@
+localhost|http://www.dx123456789.com|one
+127.0.0.1|http://www.dx987654321.com|two
