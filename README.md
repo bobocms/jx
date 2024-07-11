@@ -33,11 +33,14 @@
                    23、全局锚文本锁定，你所点击的锚文本标题会对应你打开的文章标题 
                    24、访问欺骗设置：开启访问欺骗时，人为访问看到的是：错误页面 或 空白页面 或 自定义的其他页面，蜘蛛抓取的是正常页面
                    25、指定缓存页面删除，指定缓存域名删除，批量缓存删除，首页、目录页、内容页缓存分别删除。
-                   ![登入界面](https://github.com/luobocms/jxcms/assets/175247970/0dd1f093-d0c0-4c2a-afdf-683f5a40b967)
-                   ![后台界面-1](https://github.com/luobocms/jxcms/assets/175247970/0b5488d8-3615-4529-b450-846e52bc8a9a)
-                   ![后台界面-2](https://github.com/luobocms/jxcms/assets/175247970/100a0796-ec80-47fe-af94-db60df6900a4)
-                   ![后台界面-3](https://github.com/luobocms/jxcms/assets/175247970/2297e097-8754-4c28-b827-2648cc307756)
-                   ![缓存清除](https://github.com/luobocms/jxcms/assets/175247970/339747b7-217f-476c-b994-cb99c04e4ce3)
+![登入界面](https://github.com/luobocms/jxcms/assets/175247970/3ae8b286-9d22-43e8-adee-2ec97911dd40)
+![后台界面-1](https://github.com/luobocms/jxcms/assets/175247970/fa513b8f-6749-4541-9ffb-de1906355971)
+![后台界面-2](https://github.com/luobocms/jxcms/assets/175247970/8ae7d4a5-1e38-4a5c-8f9b-333aadbb5b24)
+![后台界面-3](https://github.com/luobocms/jxcms/assets/175247970/9a628c2d-529d-4a5c-a9cc-13c0b74852a0)
+![缓存清除](https://github.com/luobocms/jxcms/assets/175247970/230615ec-5909-4104-abcd-c572834e8af8)
+
+
+
 
 
 
